@@ -1,0 +1,16 @@
+C:\Users\asus\Documents\C#\tasks\EmployeeRecruitmentTask\EmployeeRecruitmentTask\bin\Debug\net5.0\EmployeeRecruitmentTask.exe
+C:\Users\asus\Documents\C#\tasks\EmployeeRecruitmentTask\EmployeeRecruitmentTask\bin\Debug\net5.0\EmployeeRecruitmentTask.deps.json
+C:\Users\asus\Documents\C#\tasks\EmployeeRecruitmentTask\EmployeeRecruitmentTask\bin\Debug\net5.0\EmployeeRecruitmentTask.runtimeconfig.json
+C:\Users\asus\Documents\C#\tasks\EmployeeRecruitmentTask\EmployeeRecruitmentTask\bin\Debug\net5.0\EmployeeRecruitmentTask.runtimeconfig.dev.json
+C:\Users\asus\Documents\C#\tasks\EmployeeRecruitmentTask\EmployeeRecruitmentTask\bin\Debug\net5.0\EmployeeRecruitmentTask.dll
+C:\Users\asus\Documents\C#\tasks\EmployeeRecruitmentTask\EmployeeRecruitmentTask\bin\Debug\net5.0\ref\EmployeeRecruitmentTask.dll
+C:\Users\asus\Documents\C#\tasks\EmployeeRecruitmentTask\EmployeeRecruitmentTask\bin\Debug\net5.0\EmployeeRecruitmentTask.pdb
+C:\Users\asus\Documents\C#\tasks\EmployeeRecruitmentTask\EmployeeRecruitmentTask\obj\Debug\net5.0\EmployeeRecruitmentTask.csproj.AssemblyReference.cache
+C:\Users\asus\Documents\C#\tasks\EmployeeRecruitmentTask\EmployeeRecruitmentTask\obj\Debug\net5.0\EmployeeRecruitmentTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\C#\tasks\EmployeeRecruitmentTask\EmployeeRecruitmentTask\obj\Debug\net5.0\EmployeeRecruitmentTask.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\C#\tasks\EmployeeRecruitmentTask\EmployeeRecruitmentTask\obj\Debug\net5.0\EmployeeRecruitmentTask.AssemblyInfo.cs
+C:\Users\asus\Documents\C#\tasks\EmployeeRecruitmentTask\EmployeeRecruitmentTask\obj\Debug\net5.0\EmployeeRecruitmentTask.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\C#\tasks\EmployeeRecruitmentTask\EmployeeRecruitmentTask\obj\Debug\net5.0\EmployeeRecruitmentTask.dll
+C:\Users\asus\Documents\C#\tasks\EmployeeRecruitmentTask\EmployeeRecruitmentTask\obj\Debug\net5.0\ref\EmployeeRecruitmentTask.dll
+C:\Users\asus\Documents\C#\tasks\EmployeeRecruitmentTask\EmployeeRecruitmentTask\obj\Debug\net5.0\EmployeeRecruitmentTask.pdb
+C:\Users\asus\Documents\C#\tasks\EmployeeRecruitmentTask\EmployeeRecruitmentTask\obj\Debug\net5.0\EmployeeRecruitmentTask.genruntimeconfig.cache
